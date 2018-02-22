@@ -1,3 +1,0 @@
-Depends: @, postgresql-contrib-10, postgresql-10-powa
-Tests: create-extension
-Restrictions: allow-stderr
